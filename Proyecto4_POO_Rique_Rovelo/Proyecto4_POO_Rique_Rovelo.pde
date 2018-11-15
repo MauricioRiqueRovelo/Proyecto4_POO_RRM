@@ -123,7 +123,7 @@ void palabras(){
       }
       
       if (frame >= 1679 && frame < 2015){
-        translate(-350, 800);
+        translate(-350, 80);
         palabras[15].display();
       }
       
